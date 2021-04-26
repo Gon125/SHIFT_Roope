@@ -3,7 +3,7 @@ Running with rope mobile game with unity engine.\
 Unity Engine을 사용해 만든 로프를 이용한 모바일 러닝 게임입니다.\
 안드로이드 스마트폰에서 ROOPE.apk를 다운받아 설치하시면 바로 플레이 가능합니다.
 ## 기간
-16.xx.xx ~ 16.11.18
+2016.xx.xx ~ 2016.11.18
 
 ## Screenshots
 ![main_screenshot](https://github.com/Tamuel/SHIFT_Roope/blob/master/Screenshot/ROOPE.gif)
